@@ -1,5 +1,4 @@
 
-Headers:
 # This is an h1 level tag
 ## This is an h2 level tag
 ###### This is an h6 level tag
@@ -8,9 +7,10 @@ Headers:
 <!-- Comment
 and his fun -->
 
-// test
 
-/*  test */
+Roses are Red
+Violets are Blue
+
 
 Text Styles:
 *This text will be italic*
@@ -30,6 +30,7 @@ Unordered Lists:
 
 
 Ordered Lists:
+
 1. Item 1
 2. Item 2
 3. Item 3
@@ -37,9 +38,14 @@ Ordered Lists:
    * Item 3b
 
 
+1 Item 1
+2 Item 2
+3 Item 3
+
+
 Images:
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](http://icons.iconarchive.com/icons/icons-land/vista-hardware-devices/256/Hardware-Chip-icon.png)
+Format: ![Alt Text](http://icons.iconarchive.com/icons/icons-land/vista-hardware-devices/256/Hardware-Chip-icon.png)
 
 
 Links:
@@ -64,6 +70,12 @@ function fancyAlert(arg) {
 }
 ```
 
+```
+nothing but fun
+ good  times
+```
+
+
 
 Here is a Python code example
 without syntax highlighting:
@@ -72,6 +84,23 @@ without syntax highlighting:
       if not bar:
         return true
 
+ good
+ stuff
+
+
+  good
+  stuff
+
+   good
+   stuff
+
+    good
+    stuff
+
+`
+good stuff
+good stuff  good
+`
 
 Task Lists:
 - [ ] a task list item
