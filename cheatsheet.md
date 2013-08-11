@@ -5,7 +5,7 @@
 
 
 <!-- This is a
-comment -->
+comment, has to be on a new line! -->
 
 
 <!-- line breaks are merged -->
@@ -36,7 +36,8 @@ Unordered Lists:
   * Item 2b
 
 
-Ordered Lists: <!-- make sure to have a line seperation -->
+Ordered Lists:
+<!-- make sure to have a line seperation -->
 
 1. Item 1
 2. Item 2
