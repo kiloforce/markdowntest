@@ -4,49 +4,45 @@
 ###### This is an h6 level tag
 
 
-<!-- Comment
-and his fun -->
+<!-- This is a
+comment -->
 
 
+<!-- line breaks are merged -->
 Roses are Red
 Violets are Blue
 
 
 Text Styles:
+
 *This text will be italic*
+
 _This will also be italic_
 
 **This text will be bold**
+
 __This will also be bold__
 
+___This will be combined bold and italic___
 
-*You **can** combine them*
-
-_You __can__ combine them_
-
-___test test test___
+***This will also be combined bold and italic***
 
 
 Unordered Lists:
+
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
 
 
-Ordered Lists:
+Ordered Lists: <!-- make sure to have a line seperation -->
 
 1. Item 1
 2. Item 2
 3. Item 3
    * Item 3a
    * Item 3b
-
-
-1 Item 1
-2 Item 2
-3 Item 3
-
 
 Images:
 ![GitHub Logo](http://icons.iconarchive.com/icons/icons-land/vista-hardware-devices/256/Hardware-Chip-icon.png)
@@ -76,8 +72,10 @@ function fancyAlert(arg) {
 ```
 
 ```
-nothing but fun
- good  times
+This is how you do
+preformatted text
+   XX
+ XX  XX
 ```
 
 
@@ -85,26 +83,16 @@ nothing but fun
 Here is a Python code example
 without syntax highlighting:
 
+<!-- Make sure to have 4 spaces in front -->
     def foo:
       if not bar:
         return true
 
- good
- stuff
-
-
-  good
-  stuff
-
-   good
-   stuff
-
-    good
-    stuff
 
 `
-good stuff
-good stuff  good
+I am in a box, but I am not preformatted
+  XX
+XX  XX
 `
 
 Task Lists:
