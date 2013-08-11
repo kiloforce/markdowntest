@@ -19,7 +19,12 @@ _This will also be italic_
 **This text will be bold**
 __This will also be bold__
 
+
 *You **can** combine them*
+
+_You __can__ combine them_
+
+___test test test___
 
 
 Unordered Lists:
